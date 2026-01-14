@@ -1,3 +1,9 @@
 menu.imprint: Imprint
+menu.about: About Us
+menu.committees: Committees
+menu.guest-speakers: Guest Speakers
+menu.location: Location
+menu.sponsors: Sponsors
+cta_section.message:
 menu.privacy: Privacy Policy
-cta_banner.message: Get your free ticket now!
+cta_banner.message: Lorem ipsum dolor sit amet, consectetur adipiscing elit!
