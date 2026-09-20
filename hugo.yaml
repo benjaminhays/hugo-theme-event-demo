@@ -13,8 +13,8 @@ languages:
                 - identifier: committees
                   pageRef: /committees
                   weight: 20
-                - identifier: guest-speakers
-                  pageRef: /guest-speakers
+                - identifier: guest-speaker
+                  pageRef: /guest-speaker
                   weight: 30
                 - identifier: location
                   pageRef: /location
@@ -35,15 +35,13 @@ languages:
                   weight: 10
                   params:
                       description: |
-                        The "About Us" page provides insights into who we are, what we do,
-                        and why we're passionate about our conference.
-                - identifier: guest-speakers
-                  pageRef: /guest-speakers
+                        Who we are and why we're passionate about our conference.
+                - identifier: guest-speaker
+                  pageRef: /guest-speaker
                   weight: 30
                   params:
                       description: |
-                          Meet our distinguished speakers who will be sharing their expertise.
-                          Learn more about their backgrounds and what they will discuss.
+                          Meet our distinguished speaker who will be sharing their expertise.
                 - identifier: location
                   pageRef: /location
                   weight: 40
@@ -61,45 +59,44 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                Keene High School's Model United Nations Conference - BirdMUN 2026!
-            keywords: ["MUN", "Model United Nations", "Keene High School", "BirdMUN", "Conference", "2026"]
+                Keene High School's Model United Nations Conference - BirdMUN 2027!
+            keywords: ["MUN", "Model United Nations", "Keene High School", "BirdMUN", "Conference", "2027"]
             themes:
                 event:
                     slogan: Keene High School's Model United Nations Conference
                     location: Keene, NH 03431, United States
                     description: |
-                        Join us for BirdMUN 2026 at Keene High School! Experience engaging debates,
-                        insightful discussions, and collaborative problem-solving with students from
-                        around the world. Don't miss this opportunity to enhance your diplomatic skills
+                        Join us for BirdMUN 2027 at Keene High School! Experience engaging debates,
+                        insightful discussions, and collaborative problem-solving with students. Don't miss this opportunity to enhance your diplomatic skills
                         and make lasting connections.
                     directions: |
-                       TODO: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                       TODO: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
                     aboutUs: |
-                        TODO: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                        TODO: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
 params:
     images:
         - logos/logo.webp
     themes:
         event:
-            title: BirdMUN 2026
+            title: BirdMUN 2027
             shortTitle:
-            startDate: 2026-03-14
-            endDate: 2026-03-14
+            startDate: 2027-04-11
+            endDate: 2027-04-11
             address:
-                - 43 Arch St. 
+                - 43 Arch St.
                 - Keene, NH 03431
                 - United States
             callToAction:
                 other:
                   url: https://example.com
             socialLinks:
-                xUrl: https://x.com/loremipsum/
-                facebookUrl: https://www.facebook.com/loremipsum/
-                linkedinUrl: https://linkedin.com/company/loremipsum/
+                #xUrl: https://x.com/loremipsum/
+                #facebookUrl: https://www.facebook.com/loremipsum/
+                #linkedinUrl: https://linkedin.com/company/loremipsum/
             images:
                 logo: logos/logo.webp
                 titleBackground: images/placeholder-1200x400.svg
