@@ -99,7 +99,7 @@ params:
                 #linkedinUrl: https://linkedin.com/company/loremipsum/
             images:
                 logo: logos/logo.webp
-                titleBackground: images/placeholder-1200x400.svg
+                titleBackground: images/khs.jpg
                 location: images/khs-sentinelsource.webp
             colors:
                 primaryLighter: '#ff914d'
