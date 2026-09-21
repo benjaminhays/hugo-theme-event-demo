@@ -1,3 +1,3 @@
-# Guest Speaker - Lorem Ipsum
+# Guest Speaker
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Details about BirdMUN's guest speaker and keynote will be announced soon.

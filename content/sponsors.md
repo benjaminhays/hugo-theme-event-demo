@@ -1,3 +1,3 @@
 # Sponsors
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Support BirdMUN delegates by sponsoring Keene High School's conference.

@@ -1,3 +1,3 @@
 # Committees
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Explore BirdMUN committees, topics, and delegate resources for conference day.
