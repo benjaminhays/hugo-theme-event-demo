@@ -92,7 +92,7 @@ params:
                 - United States
             callToAction:
                 other:
-                  url: https://example.com
+                  url: mailto:info@birdmun.org
             socialLinks:
                 #xUrl: https://x.com/loremipsum/
                 #facebookUrl: https://www.facebook.com/loremipsum/
